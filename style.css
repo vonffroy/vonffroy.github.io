@@ -2,6 +2,41 @@ body {
 	background-color:#b366ff;
 
 font-family: 'Roboto', sans-serif;
+}
+
+h1 {
+	font-size: 48px;
+
+	}
+img {
+	display: block;
+	height: 250px;
+	width: auto;
+}
+
+#title {
+	background: #FF0066;
+	width: 600px
+}
+
+#main {
+background:  white;
+width: 700px;
+
+}
+
+* {
+	border: red dashed 2px;
 
 
 }
+
+h3 {
+	
+margin: 5px;
+
+}
+
+
+
+
