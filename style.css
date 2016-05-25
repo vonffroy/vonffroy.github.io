@@ -16,26 +16,29 @@ img {
 
 #title {
 	background: #FF0066;
-	width: 600px
+	width: 600px;
+	border-radius;15px;
+
 }
 
 #main {
 background:  white;
 width: 700px;
-
+padding-left: 10px;
+border-top: 10pt red;
+border-radius;5px;
 }
 
-* {
-	border: red dashed 2px;
 
 
-}
+ 
 
-h3 {
-	
-margin: 5px;
 
-}
+
+
+
+
+
 
 
 
